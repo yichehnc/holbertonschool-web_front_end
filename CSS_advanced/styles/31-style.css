@@ -221,6 +221,9 @@ h6 {
   padding-top: 1rem;
   color: var(--color-primary);
 }
+.card-testimonial .card-quote {
+  position: relative;
+}
 .card-testimonial .card-quote::before {
   content: "\201C";
   position: absolute;
